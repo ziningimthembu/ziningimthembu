@@ -1,0 +1,50 @@
+body{
+    background-image: url("image002.jpg");
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+}
+h1{
+    font-size: 100px;
+    color:pink;
+    font-style: italic;
+}
+h2{
+    color:paleturquoise;
+    font-size: 80px;
+    font-style: italic;
+}
+h3{
+    font-size: 65px;
+    color: paleturquoise;
+    font-style: italic;
+}
+h4{
+    font-size: 65px;
+    color: paleturquoise;
+    font-style: italic;
+}
+h5{
+    font-size: 65px;
+    color: paleturquoise;
+    font-style: italic;
+}
+h6{
+    font-size: 65px;
+    color: paleturquoise;
+    font-style: italic;
+}
+li{
+    font-size: 45px;
+    color:paleturquoise;
+    
+}
+p{
+    font-size: 50px;
+    color:white;
+    font-style: italic;
+}
+a{
+    font-size: 70px;
+    color: plum;
+}
